@@ -67,6 +67,7 @@ stock-trade-recommendation/
 │
 ├── utils/
 │   └── data_handler.py              # Utility functions for data handling (e.g., saving to CSV)
+│   └── db_handler.py                # Utility functions for database handling (e.g. , connecting to db)
 │
 ├── config.py                        # Configuration file to store API key
 │
@@ -77,8 +78,8 @@ stock-trade-recommendation/
 
 ## Acknowledgements
 
-Alpha Vantage for providing the stock data API.
-Python for being a versatile programming language.
+- Alpha Vantage for providing the stock data API.
+- Python for being a versatile programming language.
 
 
 ## Contact
