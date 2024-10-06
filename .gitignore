@@ -3,3 +3,6 @@
 
 # Ignore configuration file
 config.py
+
+# Ignore cache file
+__pycache__/
